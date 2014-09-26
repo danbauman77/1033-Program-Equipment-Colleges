@@ -16,7 +16,7 @@ ALASKA, HAWAII, IDAHO, MONTANA, NEBRASKA, NEVADA, NEW HAMPSHIRE, NEW JERSEY, ORE
 
 Transfers for colleges in ALABAMA, LOUISIANA, MASSACHUSETTS, MICHIGAN, NORTH CAROLINA, VIRGINIA, RHODE ISLAND, NEW YORK, AND WASHINGTON, DC remain in play. All of these states have either declined my requests for datasets or claimed the are not in possession of the requested records. Appeals are in order, but to sidestep this issue, I have requested the rosters of the 1033 Program participants from these various states. With these lists, I have located the colleges that currently participate in the 1033 Program. I then request equipment inventories from the colleges directly. The equipment you see from Virginia colleges was provided via this method. 
 
-Download the master file. 
+<a target="_blank" href="https://github.com/danbauman77/1033-Program-Equipment-Colleges/blob/master/data-1033%20Program%209-25-14.csv">Download the master file.</a>
 
 <b>What we turned this data into:</b>
 - <a target="_blank" href="http://chronicle.com/article/On-Campus-Grenade-Launchers/148749/">On Campus, Grenade Launchers, M-16s, and Armored Vehicles</a>
