@@ -19,10 +19,4 @@ Transfers for colleges in ALABAMA, LOUISIANA, MASSACHUSETTS, MICHIGAN, NORTH CAR
 <a target="_blank" href="https://github.com/danbauman77/1033-Program-Equipment-Colleges/blob/master/data-1033%20Program%209-25-14.csv">Download the master file.</a>
 
 <b>What we turned this data into:</b>
-- <a target="_blank" href="http://chronicle.com/article/On-Campus-Grenade-Launchers/148749/">On Campus, Grenade Launchers, M-16s, and Armored Vehicles</a>
-- <a target="_blank" href="http://chronicle.com/article/Table-The-Equipment-117/148753/">The Equipment 117 Colleges Have Acquired From the Dept. of Defense</a>
-
-<b>Resources:</b> 
--  <a target="_blank" href="https://github.com/TheUpshot/Military-Surplus-Gear">GitHub: TheUpshot/Military-Surplus-Gear
-</a>
-- <a target="_blank" href="https://www.muckrock.com/news/archives/2014/sep/04/we-have-over-half-countrys-agency-agency-1033-data/">We have over half the country's agency-by-agency 1033 data</a>
+- <a target="_blank" href="http://docs.google.com/document/d/1pw6PiOun7O-2MLu9Bfcmdi1fIb73D6PmKXZASH0Ej-I/edit?usp=sharing">Thanks to Outreach, U.S. Colleges Enjoy Jump in Gifts From Abroad</a>
