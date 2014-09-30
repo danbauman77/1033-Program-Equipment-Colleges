@@ -8,13 +8,13 @@ Per the New York Times, "this data does not represent all of the military-style 
 
 <b>Received full or college-only datasets from:</b>
 
-ARIZONA, ARKANSAS, CALIFORNIA, COLORADO, CONNECTICUT, DELAWARE, FLORIDA, GEORGIA, ILLINOIS, INDIANA, IOWA, KANSAS, KENTUCKY, MAINE, MARYLAND, MINNESOTA, MISSISSIPPI, MISSOURI, NEW MEXICO, NORTH DAKOTA, OHIO, OKLAHOMA, SOUTH CAROLINA, TENNESSEE, TEXAS, WASHINGTON STATE, WISCONSIN
+ARIZONA, ARKANSAS, CALIFORNIA, COLORADO, CONNECTICUT, DELAWARE, FLORIDA, GEORGIA, ILLINOIS, INDIANA, IOWA, KANSAS, KENTUCKY, MAINE, MARYLAND, MINNESOTA, MISSISSIPPI, MISSOURI, NEW MEXICO, NORTH DAKOTA, OHIO, OKLAHOMA, SOUTH CAROLINA, TENNESSEE, TEXAS, WASHINGTON STATE, WISCONSIN, MICHIGAN
 
 <b>No colleges currently participating in the program in these states:</b>
 
 ALASKA, HAWAII, IDAHO, MONTANA, NEBRASKA, NEVADA, NEW HAMPSHIRE, NEW JERSEY, OREGON, PENNSYLVANIA, SOUTH DAKOTA, UTAH, VERMONT, WEST VIRGINIA, WYOMING
 
-Transfers for colleges in ALABAMA, LOUISIANA, MASSACHUSETTS, MICHIGAN, NORTH CAROLINA, VIRGINIA, RHODE ISLAND, NEW YORK, AND WASHINGTON, DC remain in play. All of these states have either declined my requests for datasets or claimed the are not in possession of the requested records. Appeals are in order, but to sidestep this issue, I have requested the rosters of the 1033 Program participants from these various states. With these lists, I have located the colleges that currently participate in the 1033 Program. I then request equipment inventories from the colleges directly. The equipment you see from Virginia colleges was provided via this method.
+Transfers for colleges in ALABAMA, LOUISIANA, MASSACHUSETTS, <del>MICHIGAN</del>, NORTH CAROLINA, VIRGINIA, RHODE ISLAND, NEW YORK, AND WASHINGTON, DC remain in play. All of these states have either declined my requests for datasets or claimed the are not in possession of the requested records. Appeals are in order, but to sidestep this issue, I have requested the rosters of the 1033 Program participants from these various states. With these lists, I have located the colleges that currently participate in the 1033 Program. I then request equipment inventories from the colleges directly. The equipment you see from Virginia colleges was provided via this method.
 
 <a target="_blank" href="https://github.com/danbauman77/1033-Program-Equipment-Colleges/blob/master/data-1033%20Program%209-25-14.csv">Download the master file.</a>
 
