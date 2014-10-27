@@ -14,7 +14,31 @@ ARIZONA, ARKANSAS, CALIFORNIA, COLORADO, CONNECTICUT, DELAWARE, FLORIDA, GEORGIA
 
 ALASKA, HAWAII, IDAHO, MONTANA, NEBRASKA, NEVADA, NEW HAMPSHIRE, NEW JERSEY, OREGON, PENNSYLVANIA, SOUTH DAKOTA, UTAH, VERMONT, WEST VIRGINIA, WYOMING
 
+<b>Where we stand with requests:</b>
+
 Transfers for colleges in ALABAMA, LOUISIANA, MASSACHUSETTS, MICHIGAN, NORTH CAROLINA, VIRGINIA, RHODE ISLAND, AND WASHINGTON, DC remain in play. All of these states have either declined my requests for datasets or claimed the are not in possession of the requested records. Appeals are in order, but to sidestep this issue, I have requested the rosters of the 1033 Program participants from these various states. With these lists, I have located the colleges that currently participate in the 1033 Program. I then request equipment inventories from the colleges directly. The equipment you see from Virginia colleges was provided via this method.
+
+ALABAMA
+- Jacksonville State University declined to release figures for tactical equipment procurements, citing campus security
+- Oakland University, a private institution, did not respond to requests for the release of 1033 Program information
+- Bevill State Community College has not responded to requests for the release of 1033 Program information 
+
+MASSACHUSETTS
+- Wheaton College, a private institution, did not respond to requests for the release of 1033 Program information
+- Boston College, a private institution, did not respond to requests for the release of 1033 Program information
+
+MICHIGAN
+- Kalamazoo Valley Community College is currently processing a request sent by the Chronicle
+ 
+NORTH CAROLINA
+- The General Administration of the UNC System disclosed non-tactical equipment procured by public colleges in North Carolina. Citing security concerns, however, the administration declined to release data on the transfer of tactical equipment to these colleges, instead using the term "UNC-constituent institution/associated entity" to release equipment data but not agency data.
+- Louisburg College, a private institution, did not respond to requests for the release of 1033 Program information
+
+VIRGINIA
+- Hampton University, a private institution, did not respond to requests for the release of 1033 Program information
+
+RHODE ISLAND + LOUISIANA + WASHINGTON, DC
+- The Chronicle has been unable to obtain a list of 1033 Program participants from authorities in these states. Appeals have been made, but with no response or progress. As such, the Chronicle has requested the complete list from DLA. 
 
 <b>What I turned this data into:</b>
 - <a target="_blank" href="http://chronicle.com/article/On-Campus-Grenade-Launchers/148749/">On Campus, Grenade Launchers, M-16s, and Armored Vehicles</a>
