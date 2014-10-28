@@ -21,7 +21,7 @@ Transfers for colleges in ALABAMA, LOUISIANA, MASSACHUSETTS, MICHIGAN, NORTH CAR
 ALABAMA
 - Jacksonville State University declined to release figures for tactical equipment procurements, citing campus security
 - Oakland University, a private institution, did not respond to requests for the release of 1033 Program information
-- Bevill State Community College has not responded to requests for the release of 1033 Program information 
+- Bevill State Community College says it is under no obligation to provide documents related to the 1033 Program, as the requesting organization and individual are not stationed in Alabama. 
 
 MASSACHUSETTS
 - Wheaton College, a private institution, did not respond to requests for the release of 1033 Program information
